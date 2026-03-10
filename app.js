@@ -7,3 +7,7 @@ setTimeout(() => {
   console.log("Salom");
 }, 1000);
 console.log("Hammasi oxshadi");
+function nimadur(a, b) {
+  return a * b;
+}
+nimadur(10, 213);
