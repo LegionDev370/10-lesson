@@ -14,3 +14,4 @@ nimadur(10, 213);
 setTimeout(() => {
   console.log("Alik");
 }, 3000);
+const salom = 10;
