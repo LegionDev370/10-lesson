@@ -6,3 +6,7 @@ console.log("Mobile");
 setTimeout(() => {
   console.log("Salom");
 }, 1000);
+function nimadur(a, b) {
+  return a * b;
+}
+nimadur(10, 213);
