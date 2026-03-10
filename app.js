@@ -6,3 +6,6 @@ console.log("Mobile");
 setTimeout(() => {
   console.log("Salom");
 }, 1000);
+setTimeout(() => {
+  console.log("Alik");
+}, 3000);
