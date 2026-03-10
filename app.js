@@ -6,3 +6,4 @@ console.log("Mobile");
 setTimeout(() => {
   console.log("Salom");
 }, 1000);
+console.log("Hammasi oxshadi");
