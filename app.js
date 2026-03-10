@@ -14,3 +14,4 @@ nimadur(10, 213);
 setTimeout(() => {
   console.log("Alik");
 }, 3000);
+let array = [1, 2, 3, 4, 5, 6];
